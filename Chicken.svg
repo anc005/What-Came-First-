@@ -1,0 +1,8 @@
+<!--Copyright Annie Chen. February 17, 2017-->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 107 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-307,-325.435)">
+        <path d="M311,348L316,344L317.909,338.728L315,334L319.975,334.646L321.67,326.435L326.358,332.283L334.421,327.49L330.535,334.366L338,341L345,356L374,365L400,344.982L413,344L406.823,353L407.508,359.466L400,357.363L405.705,367.344L395.734,366.58L402.836,374.862L392.173,376.058L396,388.202L389.356,381.697L377.448,402.589L368.372,408.999L358.593,429.431L343.999,429.018L356.62,424.208L353.175,415.919L319.412,405.677L308,381L312.994,362.798L314.86,356L322.374,349L311,348Z" style="fill:rgb(255,255,96);stroke:black;stroke-width:2px;"/>
+    </g>
+</svg>
